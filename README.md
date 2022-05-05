@@ -1,7 +1,10 @@
 <img src="cover.png" width="100%">
 
-<h2 align="center">Hi 👋, I'm John Malapit</h2>
-<h3 align="center">A passionate web developer from Toronto, Canada</h3>
+<br>
+<br>
+
+<p style="font-size:2rem" align="center"><strong>Hi 👋, I'm John Malapit</strong></p>
+<p style="font-size:1.2rem"align="center"><strong>A passionate web developer from Toronto, Canada</strong></p>
 
 ## About Me
 
