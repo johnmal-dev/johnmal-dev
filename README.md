@@ -1,14 +1,22 @@
 <img src="cover.png" width="100%">
 
-## About Me
-<!-- <p style="font-size:3rem" align="center"><strong>Hi 👋, I'm John Malapit</strong></p>
-<p style="font-size:2rem"align="center"><strong>A passionate web developer from Toronto, Canada</strong></p> -->
-- 👋 Hi, I'm John Malapit. A **passionate** web developer from Toronto, Canada 🇨🇦
-- 🔭 I’m currently working on **freelancing** and **personal projects**
-- 🌱 I’m currently learning **the MERN stack** with **100Devs**
-- 👨‍💻 All of my projects are available at [www.johnmal.dev](https://www.johnmal.dev)
-- 🤗 Let's connect on [Twitter](https://twitter.com/johnmal_dev) and [LinkedIn](https://linkedin.com/in/john-mal)
-- 📫 You can also reach me at [contact@johnmal.dev](mailto:contact@johnmal.dev?subject=[GitHub]%20Let's%20Connect!)
+<p align="center">
+  <a href="https://twitter.com/johnmal_dev" target="_blank">
+    <img src="https://img.shields.io/badge/-@johnmal_dev-7DE38D?logo=twitter&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/john-mal/" target="_blank">
+    <img src="https://img.shields.io/badge/-John Malapit-7DE38D?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:contact@johnmal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-contact@johnmal.dev-7DE38D?logo=mail.ru&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">A full stack software developer from Toronto, Canada 🇨🇦</h3>
+
+- 💼 I’m currently working on **freelancing**. Check out my portfolio at [www.johnmal.dev](https://www.johnmal.dev)
+- 🌱 I’m  learning the **MERN** stack at **100Devs**
+- 💛 I love watching thriller movies, playing board games, and solving problems
 
 ## Technologies
 
