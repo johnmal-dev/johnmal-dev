@@ -1,12 +1,8 @@
 <img src="cover.png" width="100%">
 
-<br>
-<br>
-
-<p style="font-size:2rem" align="center"><strong>Hi 👋, I'm John Malapit</strong></p>
-<p style="font-size:1.2rem"align="center"><strong>A passionate web developer from Toronto, Canada</strong></p>
-
 ## About Me
+<p style="font-size:3rem" align="center"><strong>Hi 👋, I'm John Malapit</strong></p>
+<p style="font-size:2rem"align="center"><strong>A passionate web developer from Toronto, Canada</strong></p>
 
 - 🔭 I’m currently working on **freelancing** and **personal projects**
 - 🌱 I’m currently learning **the MERN stack** with **100Devs**
