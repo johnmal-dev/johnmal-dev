@@ -1,9 +1,6 @@
 <img src="cover.png" width="100%">
 
 <p align="center">
-  <a href="https://twitter.com/johnmal_dev" target="_blank">
-    <img src="https://img.shields.io/badge/-@johnmal_dev-7DE38D?logo=twitter&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/john-mal/" target="_blank">
     <img src="https://img.shields.io/badge/-John Malapit-7DE38D?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
