@@ -8,12 +8,10 @@
     <img src="https://img.shields.io/badge/-contact@johnmal.dev-7DE38D?logo=mail.ru&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
-<h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A full stack software developer from Toronto, Canada 🇨🇦</h3>
+<h1 align="center">👋 Hey, I'm John</h1>
+<h3 align="center">A Full-Stack Web Developer from Toronto, Canada 🇨🇦</h3>
 
-- 💼 I’m currently working on **freelancing**. Check out my portfolio at [www.johnmal.dev](https://www.johnmal.dev)
-- 🌱 I’m learning the **MERN** stack at **100Devs**
-- 💛 I love watching thriller movies, playing board games, and solving problems
+Hi, I'm John Malapit. I am a full-stack web developer based out of Toronto, Canada. Ever since I was young, I always had a passion for building things and understanding how things work. Armed with a Mechanical Engineering Degree, I aim to apply my previous experiences as Mechanical Engineer towards my work as a web developer.
 
 ## Technologies
 
