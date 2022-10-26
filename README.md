@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/john-mal/" target="_blank">
     <img src="https://img.shields.io/badge/-John Malapit-7DE38D?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+    <a href="https://www.johnmal.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-7DE38D?logo=gnometerminal&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="mailto:contact@johnmal.dev" target="_blank">
     <img src="https://img.shields.io/badge/-contact@johnmal.dev-7DE38D?logo=mail.ru&logoColor=white&style=for-the-badge"/>
   </a>
