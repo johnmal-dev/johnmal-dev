@@ -19,15 +19,17 @@
 
 ### Front-End Development
 
-<img alt="html5" src="https://img.shields.io/badge/html-%23FF6500.svg?style=for-the-badge&amp;logo=HTML5&amp;logoColor=%23F7DF1E">
-<img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
-<img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E">
-<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB">
-<img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white">
-<img alt="less css" src="https://img.shields.io/badge/less&nbsp;css-1D365D.svg?style=for-the-badge&amp;logo=less&amp;logoColor=white">
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
-<img alt="ejs" src="https://img.shields.io/badge/ejs-%23008015.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=%2361DAFB">
-<img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
+<p float="left">
+  <img alt="html5" src="https://img.shields.io/badge/html-%23FF6500.svg?style=for-the-badge&amp;logo=HTML5&amp;logoColor=%23F7DF1E">
+  <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E">
+  <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB">
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white">
+  <img alt="less css" src="https://img.shields.io/badge/less&nbsp;css-1D365D.svg?style=for-the-badge&amp;logo=less&amp;logoColor=white">
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
+  <img alt="ejs" src="https://img.shields.io/badge/ejs-%23008015.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=%2361DAFB">
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
+</p>
 
 ### Back-End Development
 
