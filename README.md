@@ -14,7 +14,7 @@
 <h1 align="center">👋 Hey, I'm John</h1>
 <h3 align="center">A Full-Stack Web Developer from Toronto, Canada 🇨🇦</h3>
 
-Hi, I'm John Malapit. I am a full-stack web developer based out of Toronto, Canada. Ever since I was young, I always had a passion for building things and understanding how things work. Armed with a Mechanical Engineering Degree, I aim to apply my previous experiences as Mechanical Engineer towards my work as a web developer.
+Hi, I'm John Malapit, a driven web developer based in Toronto, Canada. From a young age, I've been passionate about building and understanding the inner workings of things. With a degree in Mechanical Engineering under my belt, I'm excited to bring my unique perspective to the world of web development, leveraging my skills to craft functional and accessible applications. I'm constantly on the lookout for innovative ways to utilize my background towards my career in web development, and I'm always eager to tackle new challenges head-on.
 
 ## Technologies
 
