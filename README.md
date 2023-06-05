@@ -14,7 +14,7 @@
 <h1 align="center">👋 Hey, I'm John!</h1>
 <h3 align="center">A Web Developer from Toronto, Canada 🇨🇦</h3>
 
-Hey, I'm John Malapit, a web developer hailing from the great city of Toronto, Canada. Ever since I was young I've always had a passion for understanding how things work and building them from the ground up. This led me to pursue a degree in Mechanical Engineering. Now, I'm excited to bring my technical problem-solving skills to the world of web development, where I create functional and accessible applications that solve real-world problems. When I'm not busy coding, you can catch me playing board games 🎲, watching horror films 🍿, or climbing mountains 🧗‍♀️. Let's connect and chat about our mutual interests in tech and hobbies!
+Hey, I'm John Malapit, a web developer hailing from the great city of Toronto, Canada. Ever since I was young I've always had a passion for understanding how things work and building them from the ground up. This led me to pursue a degree in Mechanical Engineering. Now, I'm excited to bring my technical problem-solving skills to the world of web development, where I create functional and accessible applications that solve real-world problems. When I'm not busy coding, you can catch me playing board games 🎲, watching horror films 🍿, or bouldering 🧗‍♀️. Let's connect and chat about our mutual interests in tech and hobbies!
 
 ## Technologies
 
